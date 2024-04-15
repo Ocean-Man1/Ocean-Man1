@@ -1,0 +1,24 @@
+#DAY 4 CHALLENGE
+#This challenge involves recieving an input and determing where to mark an 'X' on the grid, following the logic of marking treasure on a map
+
+
+line1 = ["⬜️","️⬜️","️⬜️"]
+line2 = ["⬜️","⬜️","️⬜️"]
+line3 = ["⬜️️","⬜️️","⬜️️"]
+map = [line1, line2, line3]
+print("Hiding your treasure! X marks the spot.")
+position = input() # Where do you want to put the treasure?
+# 🚨 Don't change the code above 👆
+# Write your code below this row 👇
+
+letter = position[0].lower()    #create a uniform input
+abc = ["a", "b", "c"]      #create reference list for indexing
+letter_index = abc.index(letter)   #compare input to list and find index
+
+num_index = int(position[1]) - 1    #account for indexing
+
+map[num_index][letter_index] = 'X'
+  
+# Write your code above this row 👆
+# 🚨 Don't change the code below 👇
+print(f"{line1}\n{line2}\n{line3}")
