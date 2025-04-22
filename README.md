@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python on track to mastering Deep Learning  
 - 💞️ I’m looking to collaborate on robotics and automation projects for households
 - 📫 How to reach me here on Github!
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm on a street styles dance team called UFP from Matawan, NJ
 
 Key:
