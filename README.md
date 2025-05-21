@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ocean-Man1
 - 👀 I’m interested in robotics, automation, and computer vision applications
-- 🌱 I’m currently learning Python on track to mastering Deep Learning  
+- 🌱 I’m currently learning Python on track to learning Deep Learning  
 - 💞️ I’m looking to collaborate on robotics and automation projects for households
 - 📫 How to reach me here on Github!
 - 😄 Pronouns: he/him
